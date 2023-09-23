@@ -51,6 +51,7 @@ class _cartPageState extends State<cartPage> {
                         child: Row(
                           children: [
                             Expanded(
+                              flex: 3,
                               child: Container(
                                 decoration: BoxDecoration(
                                   image: DecorationImage(
@@ -59,34 +60,34 @@ class _cartPageState extends State<cartPage> {
                                   ),
                                 ),
                               ),
-                              flex: 3,
                             ),
                             Expanded(
+                              flex: 5,
                               child: Container(
                                 padding: EdgeInsets.all(10),
                                 child: Column(
                                   mainAxisAlignment:
-                                  MainAxisAlignment.spaceBetween,
+                                      MainAxisAlignment.spaceBetween,
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
                                     Column(
                                       crossAxisAlignment:
-                                      CrossAxisAlignment.start,
+                                          CrossAxisAlignment.start,
                                       children: [
                                         Text(
                                           "${e['name']}",
-                                          style: TextStyle(
+                                          style:const  TextStyle(
                                             fontSize: 18,
                                             color: Colors.black,
                                             fontWeight: FontWeight.w500,
                                           ),
                                         ),
-                                        SizedBox(
+                                       const  SizedBox(
                                           height: 12,
                                         ),
                                         Text(
                                           "Rs.${e['price']}",
-                                          style: TextStyle(
+                                          style:const TextStyle(
                                             fontSize: 18,
                                             color: Colors.black,
                                             fontWeight: FontWeight.w500,
@@ -100,7 +101,7 @@ class _cartPageState extends State<cartPage> {
                                           cartProduct.remove(e);
                                         });
                                       },
-                                      child: Text(
+                                      child:const Text(
                                         "DELETE",
                                         style: TextStyle(
                                           fontSize: 18,
@@ -112,7 +113,7 @@ class _cartPageState extends State<cartPage> {
                                   ],
                                 ),
                               ),
-                              flex: 5,
+
                             ),
                           ],
                         ),

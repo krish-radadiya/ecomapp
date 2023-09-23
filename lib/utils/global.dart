@@ -10,17 +10,17 @@ class Global {
           'ratting': 5,
           'discount': 12,
           'thumbnail':
-              "https://rukminim2.flixcart.com/image/416/416/xif0q/shoe/j/4/e/-original-imagpm2ktzkxgpm3.jpeg?q=70",
+              'https://www.westside.com/cdn/shop/products/300895063BLUSHPINK_4_1024x1024.jpg?v=1650621993',
           'brandName': 'Nike',
           'stock': 41,
           'cata': 'Tone snikers',
           'discription':
               "Design pattern Customize Your Name Brand  is very strong and Fashion Female Man Sports Shoes Sneakers",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/d/e/k/-original-imagtbtgyhmeguxt.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/d/1/8/9-22g-178-campus-wht-beige-original-imaghu4zu9zzycpr.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/1/q/7/-original-imagtbtfhbna4tgb.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/c/e/7/-original-imagqfwbgxaynrta.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/products/300895063BLUSHPINK_1_1024x1024.jpg?v=1650621993',
+            'https://www.westside.com/cdn/shop/products/300895063BLUSHPINK_2_1024x1024.jpg?v=1650621993',
+            'https://www.westside.com/cdn/shop/products/300895063BLUSHPINK_3_1024x1024.jpg?v=1650621993',
+            'https://www.westside.com/cdn/shop/products/300895063BLUSHPINK_4_1024x1024.jpg?v=1650621993',
           ],
         },
         {
@@ -30,17 +30,17 @@ class Global {
           'ratting': 4,
           'discount': 10,
           'thumbnail':
-              "https://5.imimg.com/data5/ECOM/Default/2023/8/335244659/QK/SR/LK/193235829/1661008056541-sku-2679-0.jpeg",
+              'https://www.westside.com/cdn/shop/products/300925628DARKBLUE_1_1024x1024.jpg?v=1672983818',
           'brandName': 'Addidas',
           'stock': 50,
           'cata': 'black and white snikers',
           'discription':
               "Cancer Shoes Womens Mens Zodiac Walking Tennis Running Lightweight Athletic Sneakers Gifts for Girl Boy",
           'image': [
-            'https://rukminim2.flixcart.com/image/416/416/kuh9yfk0/shoe/x/i/v/6-rpd134-rapidbox-white-original-imag7h6qj97vyryv.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/416/416/xif0q/shoe/g/9/z/7-rpd134-7-rapidbox-black-original-imaggyfzazjfpbun.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/kx3l0nk0/shoe/o/z/o/10-rpd134-rapidbox-blue-original-imag9mmwkmarynda.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/v/t/w/9-rpd134-rapidbox-yellow-original-imagguh5hdyzdete.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/products/300925628DARKBLUE_2_1024x1024.jpg?v=1672983818',
+            'https://www.westside.com/cdn/shop/products/300925628DARKBLUE_3_1024x1024.jpg?v=1672983818',
+            'https://www.westside.com/cdn/shop/products/300925628DARKBLUE_4_1024x1024.jpg?v=1672983818',
+            'https://www.westside.com/cdn/shop/products/300925628DARKBLUE_1_1024x1024.jpg?v=1672983818',
           ],
         },
         {
@@ -50,17 +50,17 @@ class Global {
           'ratting': 3,
           'discount': 17,
           'thumbnail':
-              "https://rukminim2.flixcart.com/image/416/416/xif0q/shoe/l/i/h/10-tarzan-04-10-asian-white-navy-grey-original-imagrvffnzeugzgh.jpeg?q=70",
+              'https://www.westside.com/cdn/shop/files/0300948782OFFWHITE_1_1024x1024.jpg?v=1692608529',
           'brandName': 'puma',
           'stock': 40,
           'cata': 'Fashionable snikers',
           'discription':
               "Enhance your fashion statement with the right casual shoes. They are designed to make you look fashionable so you family get-together or on an outing with friends",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/0/z/h/10-tarzan-04-10-asian-beej-mehroon-original-imagrvg55cphygcy.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/l/i/h/10-tarzan-04-10-asian-white-navy-grey-original-imagrvffnzeugzgh.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/v/i/t/10-tarzan-04-10-asian-white-navy-sky-original-imagrvggmzsxzngz.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/l/i/h/10-tarzan-04-10-asian-white-navy-grey-original-imagrvffnzeugzgh.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/files/0300948782OFFWHITE_2_1024x1024.jpg?v=1692608529',
+            'https://www.westside.com/cdn/shop/files/0300948782OFFWHITE_3_1024x1024.jpg?v=1692608529',
+            'https://www.westside.com/cdn/shop/files/0300948782OFFWHITE_5_1024x1024.jpg?v=1692608529',
+            'https://www.westside.com/cdn/shop/files/0300948782OFFWHITE_1_1024x1024.jpg?v=1692608529',
           ],
         },
         {
@@ -70,17 +70,17 @@ class Global {
           'ratting': 4.78,
           'discount': 14,
           'thumbnail':
-              "https://rukminim2.flixcart.com/image/832/832/l51d30w0/shoe/z/w/c/10-mrj1914-10-aadi-white-black-red-original-imagft9k9hydnfjp.jpeg?q=70",
+              'https://www.westside.com/cdn/shop/products/300928870WHITE_1_1024x1024.jpg?v=1675859647',
           'brandName': 'bata',
           'stock': 52,
           'cata': 'mesh summer snikers',
           'discription':
               "Trending Stylishvery strong snikers shoes Casual Outdoor Sneakers Shoes For Men Sneakers For Men  (White, Black)",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/7/6/v/7-mrj2107-7-aadi-black-white-original-imagpj2bzfnrmv6z.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/o/o/1/7-mrj2171-7-aadi-red-black-white-original-imagtfhxdvfwwshf.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/q/4/a/4-mrj1992-4-aadi-white-black-yellow-original-imagg3kryyszam65.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/q/u/d/4-mrj1988-4-aadi-white-black-natural-original-imagg3kspzncwawv.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/products/300928870WHITE_2_1024x1024.jpg?v=1675859647',
+            'https://www.westside.com/cdn/shop/products/300928870WHITE_3_1024x1024.jpg?v=1675859647',
+            'https://www.westside.com/cdn/shop/products/300928870WHITE_4_1024x1024.jpg?v=1675859647',
+            'https://www.westside.com/cdn/shop/products/300928870WHITE_1_1024x1024.jpg?v=1675859647',
           ],
         },
         {
@@ -90,23 +90,23 @@ class Global {
           'ratting': 4.9,
           'discount': 12,
           'thumbnail':
-              "https://rukminim2.flixcart.com/image/416/416/xif0q/shoe/3/p/q/7-rainbow3-7-ezdezario-sky-blue-original-imaggnagzwwfhehh.jpeg?q=70",
+              'https://www.westside.com/cdn/shop/products/300931705BLUE_1_1024x1024.jpg?v=1678797155',
           'brandName': 'WoodLand',
           'stock': 21,
           'cata': 'caushal sport snikers',
           'discription':
               "Trending Stylish Casual Outdoor Sneakers Shoes For Men Sneakers For Men  (White, Black)",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/kids-shoe/1/v/j/6-r-a-i-n-b-o-w-3-ezdezario-original-imagj8dmzfvfcrze.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/kids-shoe/m/r/y/10-r-a-i-n-b-o-w-4-ezdezario-original-imagg4f3j5nhtmwd.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/3/p/q/7-rainbow3-7-ezdezario-sky-blue-original-imaggnagzwwfhehh.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/kids-shoe/w/r/z/8-r-a-i-n-b-o-w-4-ezdezario-original-imagg4f339khgqph.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/products/300931705BLUE_2_1024x1024.jpg?v=1678797155',
+            'https://www.westside.com/cdn/shop/products/300931705BLUE_3_1024x1024.jpg?v=1678797155',
+            'https://www.westside.com/cdn/shop/products/300931705BLUE_4_1024x1024.jpg?v=1678797156',
+            'https://www.westside.com/cdn/shop/products/300931705BLUE_1_1024x1024.jpg?v=1678797155',
           ],
         },
       ],
     },
     {
-      'categoryName': 'LoFer shoes',
+      'categoryName': 'Lofer shoes',
       'categoryProducts': [
         {
           'id': 1,
@@ -115,17 +115,17 @@ class Global {
           'ratting': 4,
           'discount': 10,
           'thumbnail':
-              "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/4/a/m/-original-imagg7tf3a6mgyhf.jpeg?q=70",
+              'https://www.westside.com/cdn/shop/products/300927077CHOCOLATE_1_1024x1024.jpg?v=1673518695',
           'brandName': 'Nike',
           'stock': 31,
           'cata': 'formal shoes ',
           'discription':
               "Red Chief Brown Leather Loafer Formal Shoes for Men (RC3747 003)Stylish, flexible and comfort dress shoes perfect for wedding,business,work,formal and casual.",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/e/g/z/-original-imaggcb3dugrpwa2.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/u/6/l/-original-imagg7t38qpqebrx.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/2/k/d/-original-imagq9jyjy7kuzxs.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/v/h/i/-original-imagg5w9abghejxv.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/products/300927077CHOCOLATE_2_1024x1024.jpg?v=1673518695',
+            'https://www.westside.com/cdn/shop/products/300927077CHOCOLATE_3_1024x1024.jpg?v=1673518695',
+            'https://www.westside.com/cdn/shop/products/300927077CHOCOLATE_4_1024x1024.jpg?v=1673518695',
+            'https://www.westside.com/cdn/shop/products/300927077CHOCOLATE_1_1024x1024.jpg?v=1673518695',
           ],
         },
         {
@@ -135,16 +135,17 @@ class Global {
           'ratting': 3.89,
           'discount': 12,
           'thumbnail':
-              "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/4/m/u/-original-imaghvba93bgahxs.jpeg?q=70",
+              'https://www.westside.com/cdn/shop/products/300927080INDIGO_1_1024x1024.jpg?v=1674803891',
           'brandName': 'puma',
           'stock': 40,
           'cata': 'formal shoes ',
           'discription':
               "Known for their mesh design and sturdy fabric, these style loafers for men are perfect for casual outfits. They are the most stylish ones and can be worn by adults and old people.",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/i/t/f/6-kc001-brown-40-k-footlance-brown-original-imagfcyeefmzpwgm-bb.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/4/m/u/-original-imaghvba93bgahxs.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/kmgn0cw0/shoe/e/c/c/10-kc001-black-44-k-footlance-black-original-imagfcybfhvamzxd.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/products/300927080INDIGO_2_1024x1024.jpg?v=1674803891',
+            'https://www.westside.com/cdn/shop/products/300927080INDIGO_3_1024x1024.jpg?v=1674803891',
+            'https://www.westside.com/cdn/shop/products/300927080INDIGO_4_1024x1024.jpg?v=1674803891',
+            'https://www.westside.com/cdn/shop/products/300927080INDIGO_1_1024x1024.jpg?v=1674803891',
           ],
         },
         {
@@ -154,17 +155,17 @@ class Global {
           'ratting': 5,
           'discount': 8,
           'thumbnail':
-              "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/j/d/h/-original-imagtbter6f4ydh9.jpeg?q=70",
+              'https://www.westside.com/cdn/shop/files/300946707LIGHTSAGE_1_1024x1024.jpg?v=1694430644',
           'brandName': 'Wood land',
           'stock': 35,
           'cata': 'lethar shoes ',
           'discription':
               "Ethics loafer shoes are made from synthetic material and have canvas inside and outside. Known for their rich design and amazing quality, these style shoes are available in alluring colours.",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/j/k/8/-original-imagr6ppgdarehgm.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/w/5/v/-original-imagtbtfxzafmbcp.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/j/d/h/-original-imagtbter6f4ydh9.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/j/k/8/-original-imagr6ppgdarehgm.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/files/300946707LIGHTSAGE_2_1024x1024.jpg?v=1694430644',
+            'https://www.westside.com/cdn/shop/files/300946707LIGHTSAGE_3_1024x1024.jpg?v=1694430644',
+            'https://www.westside.com/cdn/shop/files/300946707LIGHTSAGE_4_1024x1024.jpg?v=1694430644',
+            'https://www.westside.com/cdn/shop/files/300946707LIGHTSAGE_1_1024x1024.jpg?v=1694430644',
           ]
         },
         {
@@ -174,17 +175,17 @@ class Global {
           'ratting': 4.1,
           'discount': 8,
           'thumbnail':
-              "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/n/z/c/10-2fd23013k04-10-u-s-polo-assn-brown-original-imagrz26jdchjevy.jpeg?q=70",
+              'https://www.westside.com/cdn/shop/files/300946708DK_20TEAL_1_1024x1024.jpg?v=1694430645',
           'brandName': 'US Polo',
           'stock': 45,
           'cata': 'cenvas shoes ',
           'discription':
               "The style is something which makes you shine out from the crowd. The first thing anyone notices about you is how well you dress up and adds to your looks and style also.",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/z/1/r/10-2fd23014n01-10-u-s-polo-assn-navy-original-imagrzmnuugspghr.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/a/o/s/10-2fd23017k04-10-u-s-polo-assn-brown-original-imagrgpgfg4gyseq.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/k/5/y/10-2fd23018n01-10-u-s-polo-assn-navy-original-imagrz26n6ymwhny.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/z/1/r/10-2fd23014n01-10-u-s-polo-assn-navy-original-imagrzmnuugspghr.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/files/300946708DK_20TEAL_2_1024x1024.jpg?v=1694430645',
+            'https://www.westside.com/cdn/shop/files/300946708DK_20TEAL_3_1024x1024.jpg?v=1694430645',
+            'https://www.westside.com/cdn/shop/files/300946708DK_20TEAL_5_1024x1024.jpg?v=1694430645',
+            'https://www.westside.com/cdn/shop/files/300946708DK_20TEAL_1_1024x1024.jpg?v=1694430645',
           ],
         },
         {
@@ -194,17 +195,17 @@ class Global {
           'ratting': 4,
           'discount': 12,
           'thumbnail':
-              'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3I-5Qk21MriuGk1gYF7ZtWBbr3-klM-Zc_JiGY5Q6A&s',
+              'https://www.westside.com/cdn/shop/products/300895116BLACK_4_1024x1024.jpg?v=1651338213',
           'brandName': 'red tape',
           'stock': 32,
           'cata': 'lofer shoes ',
           'discription':
               "For the classy gentleman that enjoys wearing the timeless style of Footwear. It is known for crafting and is the ultimate handmade shoe for any modern outfit.",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/kqwobrk0/shoe/i/3/r/11-rte278-red-tape-tan-original-imag4tkqazkf8smg.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/8/b/5/10-2fd23020z01-10-u-s-polo-assn-black-original-imagpc8fumxn2vhg.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/j/m/7/10-2fd23019k06-10-u-s-polo-assn-tan-original-imagqga9dmqr6kkw.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/n/n/2/11-2fd22413k06-u-s-polo-assn-tan-original-imaghkfzbvhggmjc.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/products/300895116BLACK_1_1024x1024.jpg?v=1651338213',
+            'https://www.westside.com/cdn/shop/products/300895116BLACK_2_1024x1024.jpg?v=1651338213',
+            'https://www.westside.com/cdn/shop/products/300895116BLACK_3_1024x1024.jpg?v=1651338213',
+            'https://www.westside.com/cdn/shop/products/300895116BLACK_4_1024x1024.jpg?v=1651338213',
           ],
         },
       ],
@@ -219,17 +220,17 @@ class Global {
           'ratting': 4.8,
           'discount': 14,
           'thumbnail':
-              'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/c/7/o/-original-imaghugypkhaj2mw.jpeg?q=70',
+              'https://www.westside.com/cdn/shop/files/300951898BEIGE_1_1024x1024.jpg?v=1694430669',
           'brandName': 'red tape',
           'stock': 32,
           'cata': 'lofer shoes ',
           'discription':
               "This shoe might take back to the Victorian Era because its design depicts school shoes. These types of loafers, for men, look like Tassel Loafers,",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/c/7/o/-original-imaghugypkhaj2mw.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/h/m/7/10-brd-732-birde-blue-original-imagdfeevkhfgkhg-bb.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/p/a/e/-original-imagg5vhhhq6zw7q.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/l1zc6fk0/slipper-flip-flop/v/7/q/10-brd-732-birde-blue-original-imagdfeehusygayq.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/files/300951898BEIGE_2_1024x1024.jpg?v=1694430669',
+            'https://www.westside.com/cdn/shop/files/300951898BEIGE_3_1024x1024.jpg?v=1694430669',
+            'https://www.westside.com/cdn/shop/files/300951898BEIGE_4_1024x1024.jpg?v=1694430669',
+            'https://www.westside.com/cdn/shop/files/300951898BEIGE_1_1024x1024.jpg?v=1694430669',
           ],
         },
         {
@@ -239,17 +240,17 @@ class Global {
           'ratting': 4.7,
           'discount': 18,
           'thumbnail':
-              'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/h/f/u/9-8714682-bata-red-original-imagt658vxxyg4nm.jpeg?q=70',
+              'https://www.westside.com/cdn/shop/files/300948108TAUPE_1_1024x1024.jpg?v=1694430644',
           'brandName': 'Bata',
           'stock': 40,
           'cata': 'pimil chample ',
           'discription':
               "These penny-type loafers for men are popular and known for their style. They come with a leather strap on the top and are preferred mainly by businessmen.",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/5/s/h/-original-imagg6qqcgyr8ky7.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/x/0/5/9-8714682-bata-red-original-imagt658qncmkvdg.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/h/f/u/9-8714682-bata-red-original-imagt658vxxyg4nm.jpeg?q=70',
-            "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/5/p/0/10-3054-ar-a-bata-olive-original-imagg26mgzvktefu.jpeg?q=70",
+            'https://www.westside.com/cdn/shop/files/300948108TAUPE_2_1024x1024.jpg?v=1694430644',
+            'https://www.westside.com/cdn/shop/files/300948108TAUPE_3_1024x1024.jpg?v=1694430644',
+            'https://www.westside.com/cdn/shop/files/300948108TAUPE_4_1024x1024.jpg?v=1694430644',
+            'https://www.westside.com/cdn/shop/files/300948108TAUPE_1_1024x1024.jpg?v=1694430644',
           ],
         },
         {
@@ -259,17 +260,17 @@ class Global {
           'ratting': 4.1,
           'discount': 20,
           'thumbnail':
-              "https://rukminim2.flixcart.com/image/612/612/l407mvk0/slipper-flip-flop/x/j/q/-original-imagezy4drsptacv.jpeg?q=70",
+              'https://www.westside.com/cdn/shop/files/300949511EMERALDGREEN_1_1024x1024.jpg?v=1694430657',
           'brandName': 'Adi Das',
           'stock': 32,
           'cata': 'lofer shoes ',
           'discription':
               "These types of loafers for men work best on formal clothing like in a tuxedo. They are mostly available in black and have a shiny surface.",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/7/u/p/-original-imaghag873myhszx.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/l407mvk0/slipper-flip-flop/x/j/q/-original-imagezy4drsptacv.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/f/0/l/11-gc0264-adidas-cblack-impyel-original-imagrf8ewchyscuw.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/u/1/e/-original-imagznvjaczyfnnk.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/files/300949511EMERALDGREEN_2_1024x1024.jpg?v=1694430657',
+            'https://www.westside.com/cdn/shop/files/300949511EMERALDGREEN_3_1024x1024.jpg?v=1694430657',
+            'https://www.westside.com/cdn/shop/files/300949511EMERALDGREEN_4_1024x1024.jpg?v=1694430657',
+            'https://www.westside.com/cdn/shop/files/300949511EMERALDGREEN_1_1024x1024.jpg?v=1694430657',
           ],
         },
         {
@@ -279,17 +280,17 @@ class Global {
           'ratting': 3.9,
           'discount': 20,
           'thumbnail':
-              "https://5.imimg.com/data5/SELLER/Default/2022/11/XI/EY/WJ/164341037/mf-2-1-.jpg",
+              'https://www.westside.com/cdn/shop/files/300948118BLACK_1_1024x1024.jpg?v=1693487818',
           'brandName': 'red tape',
           'stock': 32,
           'cata': 'lofer shoes ',
           'discription':
               "This loafer is used under formal dresses like jeans, trousers, suits etc. It can be worn without socks and also with loafer’s socks.",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/r/d/o/6-cn9675-002-nike-black-original-imagsfvxccucgzqb.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/y/e/w/6-cn9675-002-nike-black-original-imagsfvx2ekaqw6z.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/o/r/n/10-343880-403-10-nike-blue-original-imagrnz7veqbchw9.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/r/d/o/6-cn9675-002-nike-black-original-imagsfvxccucgzqb.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/files/300948118BLACK_2_1024x1024.jpg?v=1693487818',
+            'https://www.westside.com/cdn/shop/files/300948118BLACK_3_1024x1024.jpg?v=1693487825',
+            'https://www.westside.com/cdn/shop/files/300948118BLACK_4_1024x1024.jpg?v=1693487818',
+            'https://www.westside.com/cdn/shop/files/300948118BLACK_1_1024x1024.jpg?v=1693487818',
           ],
         },
         {
@@ -299,17 +300,17 @@ class Global {
           'ratting': 4,
           'discount': 20,
           'thumbnail':
-              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBtX2fQfwuo-qi9henliQ9TF3eyMtUieTPw&usqp=CAU",
+              'https://www.westside.com/cdn/shop/files/300948120OFFWHITE_1_1024x1024.jpg?v=1693487818',
           'brandName': 'red tape',
           'stock': 32,
           'cata': 'lofer shoes ',
           'discription':
               "This is a formal style loafer, which everyone uses daily on formal dresses and especially suits. In this shoe, there is no need to wear socks.",
           'image': [
-            'https://rukminim2.flixcart.com/image/832/832/l407mvk0/sandal/c/u/v/-original-imagezy4wbmgycxq.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/ktszgy80/sandal/5/8/w/8-gp-1605114brown-42-woodland-brown-original-imag72j2bd4zcg3g.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/k0y6cnk0/sandal/h/y/d/gp-2069116ws-45-woodland-khaki-original-imafkmmdfc2dpzvn.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/l407mvk0/slipper-flip-flop/g/r/m/-original-imagezy4zeqhx6mm.jpeg?q=70',
+            'https://www.westside.com/cdn/shop/files/300948120OFFWHITE_2_1024x1024.jpg?v=1693487820',
+            'https://www.westside.com/cdn/shop/files/300948120OFFWHITE_3_1024x1024.jpg?v=1693487819',
+            'https://www.westside.com/cdn/shop/files/300948120OFFWHITE_4_1024x1024.jpg?v=1693487818',
+            'https://www.westside.com/cdn/shop/files/300948120OFFWHITE_1_1024x1024.jpg?v=1693487818',
           ],
         },
       ],
@@ -541,9 +542,9 @@ class Global {
           'discription':
               "PUMA is one of the world’s leading Sports Brands, designing, developing, selling and marketing footwear, apparel and accessories. For 70 years, PUMA has established a history",
           'image': [
-            'https://m.media-amazon.com/images/I/51fLSkKHrbL._UY695_.jpg',
+            'https://m.media-amazon.com/images/I/512tEAdWlnL._SY695._SX._UX._SY._UY_.jpg',
             'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/f/v/n/10-triber-333-grey-black-adda-grey-black-original-imagh887a2gfjyd3.jpeg?q=70',
-            'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/w/j/7/6-triber-333-adda-black-original-imagnm8z4gzgzwvx.jpeg?q=70',
+            'https://m.media-amazon.com/images/I/51fLSkKHrbL._UY695_.jpg',
             'https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/c/d/q/8-triber-333-white-adda-white-original-imagh88gfzhzqbmx.jpeg?q=70',
           ],
         },
@@ -633,15 +634,15 @@ class Global {
 
 List<Map<String, dynamic>> cartProduct = [];
 
-   buyProductPrice() {
-     double sum = 0;
-     cartProduct.forEach((e) {
-       sum = sum + e['price'];
-     });
-     return sum;
-      }
+buyProductPrice() {
+  double sum = 0;
+  cartProduct.forEach((e) {
+    sum = sum + e['price'];
+  });
+  return sum;
+}
 
-    lengthCart() {
+lengthCart() {
   num cartLength = cartProduct.length;
   return cartLength;
-   }
+}
